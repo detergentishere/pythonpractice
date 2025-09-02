@@ -1,7 +1,8 @@
 # 🌸🐍 pythonpractice 🐍🌸
 
 Welcome to **pythonpractice**!  
-This is my little corner of the coding world where I brush up on my old Python concepts and write new codes to study new concepts!💻✨  
+This is my little corner of the coding world where I brush up on my old Python concepts and write new codes to study new concepts!💻
+I know this repo is named PYTHON practice, but I will include some basic ML codes to implement ML algorithms as well!✨  
 I love turning concepts into **mini-projects**, because practice + fun = growth🌱, and so me happy! 
 
 ---
