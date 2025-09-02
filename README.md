@@ -31,4 +31,7 @@ Let me know what more you wish to see in this repo, so I will also learn new thi
 Thanks for stopping by!  
 If you like this repo, drop a ⭐ and let’s spread the coding vibes together 💖
 Go and listen to BubbleGum by NewJeans for better coding vibes!🌸
-
+                            ╱|、
+                          (˚ˎ 。7  
+                           |、˜〵          
+                          じしˍ,)ノ
