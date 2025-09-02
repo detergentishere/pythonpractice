@@ -1,8 +1,8 @@
 # 🌸🐍 pythonpractice 🐍🌸
 
 Welcome to **pythonpractice**!  
-This is my little corner of the coding world where I brush up on my old Python concepts 💻✨  
-I love turning concepts into **mini-projects** — practice + fun = growth 🌱💖  
+This is my little corner of the coding world where I brush up on my old Python concepts and write new codes to study new concepts!💻✨  
+I love turning concepts into **mini-projects**, because practice + fun = growth🌱, and so me happy! 
 
 ---
 
