@@ -1,9 +1,9 @@
-# 🌸🐍 pythonpractice 🐍🌸
+#pythonpractice 
 
 Welcome to **pythonpractice**!  
 This is my little corner of the coding world where I brush up on my old Python concepts and write new codes to study new concepts!💻
 I know this repo is named PYTHON practice, but I will include some basic ML codes to implement ML algorithms as well!✨  
-I love turning concepts into **mini-projects**, because practice + fun = growth🌱, and so me happy! 
+I love turning concepts into **mini-projects**, because practice + fun = growth🌱! 
 
 ---
 
@@ -15,7 +15,7 @@ I love turning concepts into **mini-projects**, because practice + fun = growth�
 ---
 
 ## 🐾 Why this repo?
-Because practice makes perfect (and also makes coding more fun! 🍀)  
+Because practice makes one perfect (and also makes coding more fun! 🍀)  
 Every project here is a step closer to becoming a better programmer ✨
 
 ---
@@ -29,8 +29,7 @@ Let me know what more you wish to see in this repo, so I will also learn new thi
 
 ## 🐼✨ Final note
 Thanks for stopping by!  
-If you like this repo, drop a ⭐ and let’s spread the coding vibes together 💖
-Go and listen to BubbleGum by NewJeans for better coding vibes!🌸
+If you like this repo, drop a ⭐ and let’s spread the coding vibes together!
 
                             
                             ╱|、
